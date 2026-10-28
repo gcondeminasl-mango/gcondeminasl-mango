@@ -1,5 +1,5 @@
 # Guillem Condeminas
-Soy Guillem Condeminas estudiante de segundo año de 18 años de DAW (Desarrollo de aplicaciones web), me gusta el ejercicio, los videojuegos y quedar con amigos, mis intereses son principalmente, la programacion, los videojuegos, la lectura y los deportes.
+Soy **Guillem Condeminas** estudiante de segundo año de 18 años de **DAW** (Desarrollo de aplicaciones web), me gusta el ejercicio, los videojuegos y socializar. Mis intereses son principalmente, **la programacion**, los videojuegos, la lectura y los deportes.
 
 ## Tecnologies
 - Python
@@ -9,7 +9,7 @@ Soy Guillem Condeminas estudiante de segundo año de 18 años de DAW (Desarrollo
 - JS
 
 ## Projectes 
-- [Una tienda para vender los objetos de segunda mano que ya no uses](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-7)
+- [https://img.shields.io/badge/github-repo-blue?logo=github](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-7)
 - [Una tienda online con todos los estilos hechos con boostrap](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-bootstrap-gcondeminasl-mango)
 ## Contacte
 - Correo electronico: optimus6446@gmail.com
