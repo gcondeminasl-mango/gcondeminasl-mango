@@ -9,5 +9,5 @@ Soy Guillem Condeminas estudiante de segundo año de 18 años de DAW (Desarrollo
 - JS
 
 ## Projectes 
-[Wannapop](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-7)
-[Boostrap](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-bootstrap-gcondeminasl-mango)
+- [Wannapop](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-7)
+- [Boostrap](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-bootstrap-gcondeminasl-mango)
