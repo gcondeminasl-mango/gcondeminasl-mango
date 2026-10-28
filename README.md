@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=150&section=header&fontSize=40&fontColor=ffffff&fontAlignY=40)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=header)
 # Guillem Condeminas
 Soy **Guillem Condeminas** estudiante de segundo año de 18 años de **DAW** (Desarrollo de aplicaciones web), me gusta el ejercicio, los videojuegos y socializar. Mis intereses son principalmente, **la programacion**, los videojuegos, la lectura y los deportes.
 
